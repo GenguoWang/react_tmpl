@@ -4,5 +4,7 @@ html,body {
 }
 
 :local(.app) {
-  background-color: gray;
+  display: flex;
+  padding-right: 25px;
+  margin-top: 50px; 
 }
